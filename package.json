@@ -1,0 +1,22 @@
+{
+  "name": "challenge-portal",
+  "version": "1.0.0",
+  "description": "receives branches, runs tests, issues notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storycoding/challenge-portal.git"
+  },
+  "author": "storycoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storycoding/challenge-portal/issues"
+  },
+  "homepage": "https://github.com/storycoding/challenge-portal#readme",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
