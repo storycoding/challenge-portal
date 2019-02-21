@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/storycoding/challenge-portal#readme",
   "dependencies": {
-    "jest": "^24.1.0"
+    "jest": "^24.1.0",
+    "uuid": "^3.3.2"
   }
 }
