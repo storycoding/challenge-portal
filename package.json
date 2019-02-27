@@ -1,23 +1,11 @@
 {
-  "name": "challenge-portal",
+  "name": "fake-ned",
   "version": "1.0.0",
-  "description": "receives branches, runs tests, issues notifications",
+  "description": "FAKE NED - not in use",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/storycoding/challenge-portal.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "storycoding",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/storycoding/challenge-portal/issues"
-  },
-  "homepage": "https://github.com/storycoding/challenge-portal#readme",
-  "dependencies": {
-    "jest": "^24.1.0",
-    "uuid": "^3.3.2"
-  }
+  "license": "ISC"
 }
